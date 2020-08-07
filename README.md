@@ -8,15 +8,12 @@
 - 🌱 I’m currently learning Web Scraping using Selenium
 - 👯 I’m looking to collaborate on Data Science
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Machine Learninf and automations
+- 💬 Ask me about Machine Learning and automations
 - 📫 How to reach me: https://www.linkedin.com/in/rjauhari/
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: All my family members have same initials RJ
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Projects Portfolio" width="22px" src="https://rachitj.github.io/RachitJ-Portfolio/" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/rjauhari/" />][linkedin]
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rachitj&layout=compact)](https://github.com/rachitj/github-readme-stats)
 
