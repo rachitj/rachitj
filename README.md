@@ -8,5 +8,4 @@
 - 👯 I’m looking to collaborate on Data Engineering Projects
 - 💬 Ask me about Data Engineering, automations, Data Architecture
 - 📫 How to reach me: https://www.linkedin.com/in/rjauhari/
-- ⚡ Fun fact: All my family members have same initials RJ
 
