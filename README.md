@@ -9,3 +9,6 @@
 - 💬 Ask me about Data Engineering, automations, Data Architecture
 - 📫 How to reach me: https://www.linkedin.com/in/rjauhari/
 
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
