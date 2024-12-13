@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on contributing  sample projects on Data Engineering end to end
 - 👯 I’m looking to collaborate on Data Engineering Projects
-- 💬 Ask me about Data Engineering, automations, Data Architecture
+- 💬 Ask me about Data Engineering, automations, Data Architecture, Data Warehousing
 - 📫 How to reach me: https://www.linkedin.com/in/rjauhari/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachitj&layout=compact&theme=ambient_gradient )](https://github.com/rachitj/github-readme-stats)
